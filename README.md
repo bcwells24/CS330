@@ -1,2 +1,2 @@
 # CS330
-SNHU- Computer Graphics and Visualization
+SNHU- Computational Graphics and Visualization
